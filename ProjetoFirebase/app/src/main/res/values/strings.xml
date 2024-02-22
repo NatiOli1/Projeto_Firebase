@@ -2,4 +2,5 @@
     <string name="app_name">Projeto Firebase</string>
     <string name="entrar">Entrar</string>
     <string name="textCadastro">Crie uma conta clicando aqui</string>
+    <string name="title_cadastro">Cadastre-se</string>
 </resources>
